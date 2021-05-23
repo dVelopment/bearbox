@@ -2,7 +2,7 @@
 <project version="4">
   <component name="SshConfigs">
     <configs>
-      <sshConfig host="arthurbox.local" id="e0251bc8-1d3c-4d96-81f1-076f358c7d0d" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" nameFormat="DESCRIPTIVE" username="pi" />
+      <sshConfig host="10.0.0.44" id="e0251bc8-1d3c-4d96-81f1-076f358c7d0d" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" nameFormat="DESCRIPTIVE" username="dietpi" />
     </configs>
   </component>
 </project>

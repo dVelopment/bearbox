@@ -33,6 +33,6 @@ function onCardRemoved() {
     stop();
 }
 
-volume(10, 64).then(() => {
+volume(50, 90).then(() => {
     scan(onUidFound, onCardRemoved);
 });

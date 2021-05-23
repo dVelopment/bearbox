@@ -2,7 +2,7 @@ import { execSync } from 'child_process';
 import ADS1115 from 'ads1115';
 import i2c from 'i2c-bus';
 
-const mixer = 'Master';
+const mixer = 'Speaker';
 
 const regex = /Front Left: \d+ \[(\d+)%\]/;
 

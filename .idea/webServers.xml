@@ -3,7 +3,7 @@
   <component name="WebServers">
     <option name="servers">
       <webServer id="1eb41912-cde4-462a-bc60-8465b2972239" name="arthurbox">
-        <fileTransfer rootFolder="/home/pi/arthurbox" accessType="SFTP" host="arthurbox.local" port="22" sshConfigId="e0251bc8-1d3c-4d96-81f1-076f358c7d0d" sshConfig="pi@arthurbox.local:22 key" keyPair="true">
+        <fileTransfer rootFolder="/home/dietpi/arthurbox" accessType="SFTP" host="10.0.0.44" port="22" sshConfigId="e0251bc8-1d3c-4d96-81f1-076f358c7d0d" sshConfig="dietpi@10.0.0.44:22 key" keyPair="true">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
